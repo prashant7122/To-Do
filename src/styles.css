@@ -21,8 +21,9 @@
   justify-content: center;
   align-items: center;
   font-size: 60px;
+  color: rgb(48, 2, 42);
   font-style: italic;
-  font-style: bolder;
+  font-weight: bold;
   width: 100%;
   background: #a764a7;
 }
